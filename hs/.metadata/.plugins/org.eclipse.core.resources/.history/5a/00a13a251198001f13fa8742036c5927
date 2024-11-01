@@ -1,0 +1,8 @@
+package com.ssafy.mvc.model.service;
+
+public interface userService {
+	
+	//회원가입
+	//회원정보 확인
+
+}

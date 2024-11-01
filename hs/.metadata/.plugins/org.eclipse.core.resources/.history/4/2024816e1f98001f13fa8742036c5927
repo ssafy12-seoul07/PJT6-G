@@ -1,0 +1,10 @@
+package com.ssafy.mvc.config;
+
+import org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration;
+import org.springframework.context.annotation.Configuration;
+
+//여기서 인터셉터 연결
+@Configuration
+public class WebConfig extends WebMvcAutoConfiguration {
+
+}

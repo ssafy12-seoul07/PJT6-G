@@ -1,0 +1,18 @@
+package com.ssafy.mvc.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+import com.ssafy.mvc.model.service.userService;
+
+@RestController
+public class userController {
+	//service에 대한 의존성 부여
+	private final userService userService;
+
+	public userController(userService userService) {
+		this.userService = userService;
+	}
+	
+	
+
+}
