@@ -8,10 +8,10 @@
 		<version>3.3.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.ssafy.mvc</groupId>
-	<artifactId>com.ssafy.pjt</artifactId>
+	<groupId>com.ssafy</groupId>
+	<artifactId>SSAFIT_PJT-G</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>com.ssafy.pjt</name>
+	<name>SSAFIT_PJT-G</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
