@@ -1,0 +1,11 @@
+package com.ssafy.mvc.model.dto;
+
+import java.time.LocalDateTime;
+import java.util.Date;
+
+public class video {
+	private String title;
+	private String part;
+	private String channelName;
+	private int viewCnt;
+}
