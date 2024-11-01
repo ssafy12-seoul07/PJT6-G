@@ -1,9 +1,0 @@
-package com.ssafy.mvc.model.dto;
-
-public class video {
-	private String title;
-	private String part;
-	private String channelName;
-	private int viewCnt;
-	private Date regDate;
-}
